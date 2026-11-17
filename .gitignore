@@ -4,6 +4,12 @@
 # Vite output and caches
 **/dist/
 **/.vite/
+token_vesting/node_modules
+token_vesting/dist
+token_vesting/.vite
+/token_vesting/node_modules
+/token_vesting/dist
+/token_vesting/.vite
 
 # Local environment files and secrets
 .env
